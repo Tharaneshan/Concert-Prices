@@ -1,5 +1,5 @@
 # Concert-Prices
-Shows prices for different seat numbers at a concert.
+Java code where it shows prices for different seat numbers at a concert.
 
     import java.util.Scanner;
     public class Concert {
